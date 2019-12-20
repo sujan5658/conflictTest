@@ -1,12 +1,16 @@
 <!-- Koju section starts -->
-
+	Happy coding.!!!!!!
+	Sunny Day. Warm sun. Nice sun.
+	Good evening!!
+	Sunny Day.Git status Checking.
+	Rainy day.
 <!-- Koju section ends -->
 
 <!-- Unika section starts -->
-
+conflict test text
 <!-- Unika section ends -->
 
 <!-- Lawaju section starts -->
 
-
+Project Github
 <!-- Lawaju section ends -->
